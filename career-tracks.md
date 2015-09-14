@@ -61,21 +61,21 @@ levels:
  
 ### Software Engineer II
 - Demonstrable competency in three or more software engineering disciplines
-- Successful experience as a team member on one or more complete software project life-cycles
+- Successful experience as a team member on one or more complete software project major or minor releases
 - Good working knowledge of all the software engineering disciplines and the processes and technologies that support them
 - A willingness and eagerness to mentor peers and more junior software engineers
 
 ### Software Engineer III
 - Demonstrable competency in four or more software engineering disciplines
-- Successful experience on three or more complete software project life-cycles
-- Successful experience on one or more complete software project life-cycles while on a IssueTrak team
+- Successful experience on three or more complete software project major or minor releases
+- Successful experience on one or more complete software project major or minor releases while on a IssueTrak team
 - Successful experience mentoring peers and more junior software engineers
 - Demonstrable proficiency in at least one of the software engineering disciplines 
 
 ### Senior Software Engineer
 - Demonstrable competency in five or more software engineering disciplines
-- Successful experience on four or more complete software project life-cycles
-- Successful experience on two or more complete software project life-cycles while on a IssueTrak team
+- Successful experience on four or more complete software project major or minor releases
+- Successful experience on two or more complete software project major or minor releases while on a IssueTrak team
 - Successful experience mentoring peers and more junior software engineers
 - Demonstrable proficiency in at least two of the software engineering disciplines 
 
@@ -118,14 +118,14 @@ The following represent the software engineering disciplines related to test:
 
 ### Test Engineer II
 - Demonstrable competency in three or more software engineering disciplines related to test
-- Successful experience as a team member on one or more complete software project life-cycles
+- Successful experience as a team member on one or more complete software project major or minor releases
 - Good working knowledge of all the software engineering disciplines and the processes and technologies that support them
 - Successful experience mentoring peers and more junior Test Engineers
 
 ### Test Engineering Manager
 - Demonstrable competency in four or more software engineering disciplines related to test
-- Successful experience on three or more complete software project life-cycles
-- Successful experience on one or more complete software project life-cycles while on a IssueTrak team
+- Successful experience on three or more complete software project major or minor releases
+- Successful experience on one or more complete software project major or minor releases while on a IssueTrak team
 - Successful experience mentoring peers and more junior Test Engineers
 - Demonstrable proficiency in at least one of the test related software engineering disciplines related to test 
 
