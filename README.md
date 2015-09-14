@@ -14,4 +14,4 @@ This repo contains the career continuing education information for the IssueTrak
 
 and templates:
 
-* [Skill Grading Excel Template](skill-grading-template.xslx)
+* [Skill Grading Excel Template](https://github.com/IssueTrak/career-training/raw/master/skill-grading-template.xlsx)
