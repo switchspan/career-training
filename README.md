@@ -1,4 +1,4 @@
-# IssueTrak Career Training (Development)
+# IssueTrak Development Training
 
 Date Created: 2015-09-14  
 Last Modified: 2015-09-14  
