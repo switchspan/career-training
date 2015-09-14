@@ -1,13 +1,13 @@
 Test Engineer Training
 ======================
 
-Date Created: 2015-09-10
+Date Created: 2015-09-10  
 Last Modified: 2015-09-10    
 
 The following document outlines the current list of pluralsight training for Test Engineering.
 The **(B)** flag denotes the basic (or first) training video that should be taken in each of the disciplines.
 
-In order to be counted toward career development skills, the assessments must be completed successfully and submitted to your manager (_Managers: the completed assessments must be added to the personnel file_).
+In order to be counted toward career development skills, the assessments must be completed successfully and submitted to your manager (_Managers: the completed assessments and peer reviews must be added to the personnel file_).
 
 ## Test Engineer
 
