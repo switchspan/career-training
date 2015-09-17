@@ -40,13 +40,13 @@ The very first thing you should be familiar with.
     - (B) http://www.pluralsight.com/courses/gathering-good-requirements-developers
 	- http://www.pluralsight.com/courses/best-practices-requirements-gathering	
 - analysis and design
-	- (B) http://www.pluralsight.com/courses/design-to-development-for-developers
-	- http://www.pluralsight.com/courses/uml-introduction
+	- (B) http://www.pluralsight.com/courses/uml-introduction
 	- http://www.pluralsight.com/courses/developing-extensible-software
 	- http://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing
 	- http://www.pluralsight.com/courses/domain-driven-design-fundamentals
 	- http://www.pluralsight.com/courses/dotnet-featuretoggle-implementing
 	- http://www.pluralsight.com/courses/web-api-design
+	- http://www.pluralsight.com/courses/design-to-development-for-developers
 	- http://www.pluralsight.com/courses/understanding-eliminating-technical-debt
 - implementation
 	- (B) http://www.pluralsight.com/courses/csharp-fundamentals
