@@ -43,6 +43,7 @@ The very first thing you should be familiar with.
 	- (B) http://www.pluralsight.com/courses/design-to-development-for-developers
 	- http://www.pluralsight.com/courses/uml-introduction
 	- http://www.pluralsight.com/courses/developing-extensible-software
+	- http://www.pluralsight.com/courses/encapsulation-solid
 	- http://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing
 	- http://www.pluralsight.com/courses/domain-driven-design-fundamentals
 	- http://www.pluralsight.com/courses/dotnet-featuretoggle-implementing
