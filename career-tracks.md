@@ -12,11 +12,11 @@ This document outlines the job levels within IssueTrak for technical careers. Th
 
 IssueTrak has three (3) main technical career tracks: 
 
-- Software Engineering (SE)
+- Software Engineering (SWE)
 - Engineering Productivity (EP)
 - Program Management (PM)
 
-## Software Engineering (SE)
+## Software Engineering (SWE)
 
 IssueTrak’s primary mission is to build software solutions for our clients. At IssueTrak, software engineers
 build those software solutions. An IssueTrak Software Engineer must possess skills across various
@@ -85,7 +85,7 @@ TBD - Growth title
 
 ---
 
-## Engineering Productivity
+## Engineering Productivity (EP)
 
 The engineering productivity track includes QA (Test Engineers) as well as SETs. 
 
@@ -131,7 +131,7 @@ The following represent the software engineering disciplines related to test:
 
 ---
 
-## Program Management
+## Program Management (PM)
 
 Program Management is "process of managing multiple ongoing inter-dependent projects."
 This is a growth career track for management in development which is not currently being used - but planned for future expansion.
