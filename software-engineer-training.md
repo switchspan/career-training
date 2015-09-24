@@ -2,7 +2,7 @@ Software Engineer Training
 ==========================
 
 Date Created: 2015-09-10  
-Last Modified: 2015-09-10    
+Last Modified: 2015-09-24    
 
 The following document outlines the current list of [Pluralsight][pluralsight] training used by IssueTrak for Software Engineering.The **(B)** flag denotes the basic (or first) training video that should be taken in each of the disciplines.
 
