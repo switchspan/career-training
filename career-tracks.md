@@ -14,6 +14,9 @@ IssueTrak has three (3) main technical career tracks:
 
 - Software Engineering (SWE)
 - Engineering Productivity (EP)
+    - Software Engineer in Test (SET)
+    - Test Engineer (TE)
+    - Test Manager (TM)
 - Program Management (PM)
 
 ## Software Engineering (SWE)
@@ -122,7 +125,7 @@ The following represent the software engineering disciplines related to test:
 - Good working knowledge of all the software engineering disciplines and the processes and technologies that support them
 - Successful experience mentoring peers and more junior Test Engineers
 
-### Test Engineering Manager
+### Test Engineering Manager (TM)
 - Demonstrable competency in four or more software engineering disciplines related to test
 - Successful experience on three or more complete software project major or minor releases
 - Successful experience on one or more complete software project major or minor releases while on a IssueTrak team
