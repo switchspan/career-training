@@ -2,7 +2,7 @@ Software Engineer Training
 ==========================
 
 Date Created: 2015-09-10  
-Last Modified: 2015-09-24    
+Last Modified: 2015-09-29    
 
 The following document outlines the current list of [Pluralsight][pluralsight] training used by IssueTrak for Software Engineering.The **(B)** flag denotes the basic (or first) training video that should be taken in each of the disciplines.
 
@@ -41,6 +41,7 @@ The very first thing you should be familiar with.
 	- http://www.pluralsight.com/courses/best-practices-requirements-gathering	
 - analysis and design
 	- (B) http://www.pluralsight.com/courses/uml-introduction
+	- http://www.pluralsight.com/courses/principles-oo-design
 	- http://www.pluralsight.com/courses/developing-extensible-software
 	- http://www.pluralsight.com/courses/encapsulation-solid
 	- http://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing
